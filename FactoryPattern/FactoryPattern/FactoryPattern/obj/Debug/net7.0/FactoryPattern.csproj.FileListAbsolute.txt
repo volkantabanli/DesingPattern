@@ -1,0 +1,14 @@
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.exe
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.deps.json
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.runtimeconfig.json
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.dll
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.pdb
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.dll
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\refint\FactoryPattern.dll
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.pdb
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\Volkan\Desktop\Volkan\GitProject\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\net7.0\ref\FactoryPattern.dll

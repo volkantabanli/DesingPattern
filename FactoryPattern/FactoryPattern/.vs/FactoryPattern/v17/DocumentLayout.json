@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1FC998-761E-421B-997D-0448339D8653}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\factorypattern\\factorypattern\\factorypattern\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1FC998-761E-421B-997D-0448339D8653}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1FC998-761E-421B-997D-0448339D8653}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\factorypattern\\factorypattern\\factorypattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1FC998-761E-421B-997D-0448339D8653}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1FC998-761E-421B-997D-0448339D8653}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\factorypattern\\factorypattern\\factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1FC998-761E-421B-997D-0448339D8653}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1FC998-761E-421B-997D-0448339D8653}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\factorypattern\\factorypattern\\factorypattern\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1FC998-761E-421B-997D-0448339D8653}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\FactoryPattern\\Car.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Car.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\FactoryPattern\\Car.cs",
+              "RelativeToolTip": "FactoryPattern\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:26:58.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\FactoryPattern\\CarFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\CarFactory.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\FactoryPattern\\CarFactory.cs",
+              "RelativeToolTip": "FactoryPattern\\CarFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:26:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\FactoryPattern\\Client.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Client.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\FactoryPattern\\Client.cs",
+              "RelativeToolTip": "FactoryPattern\\Client.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:26:52.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\FactoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\FactoryPattern\\FactoryPattern\\FactoryPattern\\Program.cs",
+              "RelativeToolTip": "FactoryPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:26:23.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
