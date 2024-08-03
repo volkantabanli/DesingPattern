@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\desingpattern\\builderpattern\\builderpattern\\concretehousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\concretehousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\desingpattern\\builderpattern\\builderpattern\\ihousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\ihousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\desingpattern\\builderpattern\\builderpattern\\housedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\housedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\desingpattern\\builderpattern\\builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\volkan\\desktop\\volkan\\gitproject\\desingpattern\\builderpattern\\builderpattern\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EB04E2-AA81-4C9E-B965-F3F3A2473424}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HouseDirector.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\HouseDirector.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\HouseDirector.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\HouseDirector.cs",
+              "RelativeToolTip": "BuilderPattern\\HouseDirector.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvxsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:38:04.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConcreteHouseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\ConcreteHouseBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\ConcreteHouseBuilder.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\ConcreteHouseBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\ConcreteHouseBuilder.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:37:38.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHouseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\IHouseBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\IHouseBuilder.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\IHouseBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\IHouseBuilder.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:37:13.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\House.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\House.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\House.cs",
+              "RelativeToolTip": "BuilderPattern\\House.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:36:38.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\Volkan\\GitProject\\DesingPattern\\BuilderPattern\\BuilderPattern\\Program.cs",
+              "RelativeToolTip": "BuilderPattern\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:33:55.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
